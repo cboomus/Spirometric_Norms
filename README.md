@@ -4,4 +4,4 @@ with use of ML algorithms of linear regression, SVM, random forest, and XG Boost
 
 The dataset is derived from the article Beyond the Expiratory Limb: A Complete Raw 
 Spirometry Dataset by DL Ibraheem et al and published in Front Physiol 2022; 13: 898831. 
-It consists of a table of demographics and a table of spirometry.
+It consists of a table of demographics and a table of spirometric data.
